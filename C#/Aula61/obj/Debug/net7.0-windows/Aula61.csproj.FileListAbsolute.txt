@@ -1,0 +1,17 @@
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\bin\Debug\net7.0-windows\Aula61.exe
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\bin\Debug\net7.0-windows\Aula61.deps.json
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\bin\Debug\net7.0-windows\Aula61.runtimeconfig.json
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\bin\Debug\net7.0-windows\Aula61.dll
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\bin\Debug\net7.0-windows\Aula61.pdb
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\Aula61.Form1.resources
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\Aula61.Properties.Resources.resources
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\Aula61.csproj.GenerateResource.cache
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\Aula61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\Aula61.AssemblyInfoInputs.cache
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\Aula61.AssemblyInfo.cs
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\Aula61.csproj.CoreCompileInputs.cache
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\Aula61.dll
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\refint\Aula61.dll
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\Aula61.pdb
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\Aula61.genruntimeconfig.cache
+C:\Users\Renan de Castro\Documents\C#\Aulas\Aula61\obj\Debug\net7.0-windows\ref\Aula61.dll
